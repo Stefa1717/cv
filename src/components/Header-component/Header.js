@@ -5,6 +5,7 @@ function Header(props){
         <article>
             <div>{props.firstName} {props.lastName}</div>
             <img src={props.photoPath} width="80" height="100" alt="profile" />
+            <div>{props.jobTitle}</div>
         </article>
     );
 }

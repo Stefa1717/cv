@@ -1,58 +1,212 @@
 {
     "body": [
         {
-            "key": "1",
+            "key": "06d4be8f36724ba3b9583bdae9871d19",
             "componentName": "header",
             "firstName" : "Dominik",
             "lastName": "Wieczorek",
-            "photoPath" : "dominic_cv.jpg"
+            "photoPath": "dominic_cv.jpg",
+            "jobTitle": ".NET Developer"
         },
         {
-            "key": "2",
+            "key": "fb56f579eb1c4b93aa88a70bc01faab0",
             "componentName": "sidepane",
             "elements": [
                 {
-                    "key": "1",
+                    "key": "724be540ef00478693a1c18bee50eafc",
                     "componentName": "section",
                     "sectionName": "Personal data",
                     "elements": [
                         {
-                            "key": "1",
+                            "key": "79e3d9d3da8f487e903809bc0bf3ef36",
                             "componentName": "sectionEntry",
-                            "title": "City",
-                            "description": "Kraków"
+                            "title": "Location",
+                            "description": "Kraków, Poland"
                         },
                         {
-                            "key": "2",
+                            "key": "4e29da8e8e3748709846c8e32da36099",
                             "componentName": "sectionEntry",
                             "title": "Phone",
-                            "description": "+48 665332808"
+                            "description": "+48 665 332 808"
                         },
                         {
-                            "key": "3",
+                            "key": "27d93b8fdf26447ea989d22522c4e943",
                             "componentName": "sectionEntry",
                             "title": "Mail",
                             "description": "dominicwieczo@gmail.com"
+                        }
+                    ]
+                },
+                {
+                    "key": "f07a1cb604d543d7b51ad019cc31e8db",
+                    "componentName": "section",
+                    "sectionName": "Languages",
+                    "elements": [
+                        {
+                            "key": "13e95276ac104ad6af422b7ff71e2885",
+                            "componentName": "sectionEntry",
+                            "language": "English",
+                            "stars": "5"
+                        },
+                        {
+                            "key": "c51efbfd9e1a497cadbbce38ea8086a6",
+                            "componentName": "sectionEntry",
+                            "language": "French",
+                            "stars": "4"
+                        }
+                    ]
+                },
+                {
+                    "key": "a797cf3a7f7041e7ae643743838f4b65",
+                    "componentName": "section",
+                    "sectionName": "Education",
+                    "elements": [
+                        {
+                            "key": "ca18ce123c11449d83c437e0df0acbc8",
+                            "componentName": "sectionEntry",
+                            "title": "University",
+                            "description": "AGH, Master Degree in Biomedical Engineering, specialization in Computer Science and Medical Electronics.",
+                            "date": "2010 - 2017",
+                            "link": "https://kandydaci.agh.edu.pl/studia/inzynieria-biomedyczna/"
+                        },
+                        {
+                            "key": "469b923959284f988e30b7670d354bb6",
+                            "componentName": "sectionEntry",
+                            "title": "High School",
+                            "description": "'Good News 2000' Piekary",
+                            "date": "2007 - 2010",
+                            "link": "http://www.liceum.radosnanowina.pl/"
                         }
                     ]
                 }
             ]
         },
         {
-            "key": "3",
+            "key": "6b895c84642e4bab90fcbce703cf1243",
             "componentName": "mainpane",
-            "Section":{
-                "Name": "Work Experience",
-                "Elements": [
-                    {
-                        "Name": "KPMG",
-                        "Date": "Jun'20-Now"
-                    }
-                ]
-            }
+            "elements": [
+                {
+                    "key": "115cb59ddeac4a30a9ba734e0054893f",
+                    "componentName": "section",
+                    "sectionName": "Work Experience - Professional Projects",
+                    "elements": [
+                        {
+                            "key": "299b32993bf147bd8f7f3dca1c9b70e2",
+                            "componentName": "sectionEntry",
+                            "title": "KPMG",
+                            "description": "Extend app generating tax returns in Swiss cantons.",
+                            "date": "Jun'20-Now",
+                            "link": "https://home.kpmg/pl/pl/home.html",
+                            "position": ".NET Developer",
+                            "experience": "1 year",
+                            "projects":
+                            [
+                                {
+                                    "key": "e423590c35ea44f4b2c880c03802f338",
+                                    "componentName": "sectionEntry",
+                                    "title": "KTax2",
+                                    "description": "Covering tax business logic in graph structure. Creating new sections based on business analityc's documentation. Fixing bugs.",
+                                    "stack": ".NET Framework, Microsoft SQL Server, JavaScript" 
+                                }
+                            ]
+                        },
+                        {
+                            "key": "b1e7cae58d4a4c20997e7e669d6d1b19",
+                            "componentName": "sectionEntry",
+                            "title": "Primetals Technologies",
+                            "description": "Developing Web Application which manages steel production in ironworks with Primetals - joint venture of Mitsubishi Heavy Industries and Siemens.",
+                            "date": "Oct'19-May'20",
+                            "link": "https://www.primetals.com/",
+                            "position": ".NET Developer",
+                            "experience": "6 months",
+                            "projects":
+                            [
+                                {
+                                    "key": "b48e0ff61eb7495f969d21cff078f163",
+                                    "componentName": "sectionEntry",
+                                    "title": "ProcessExpert",
+                                    "description": "Creating new functionalities in ProcessExpert - HMI tool to manage steel production in ironworks.",
+                                    "stack": ".NET Framework, Microsoft SQL Server, JavaScript"
+                                }
+                            ]
+                        },
+                        {
+                            "key": "a1909f19a56d41078b1cf4a001335e90",
+                            "componentName": "sectionEntry",
+                            "title": "Oroox Lab",
+                            "description": "Developing online shop (Addvena) with Idealogic. Developing digital STEP file analysis (Estech Digital) and creating ecommerce platform with Oroox - Swiss metal industry company.",
+                            "date": "Oct'18-Sep'19",
+                            "url": "https://oroox.com/en",
+                            "position": ".NET Developer",
+                            "experience": "1 year",
+                            "projects":
+                            [
+                                {
+                                    "key": "d4e696da645d47b48fe27630fb9b48f6",
+                                    "componentName": "sectionEntry",
+                                    "title": "Estech Webcad",
+                                    "url": "http://estech-wizard.client.webcad.com/",
+                                    "description": "Creating E-commerce solution and Authorization module based on OAuth2.0 and Microservices. Developing STEP file calculator.",
+                                    "stack": ".NET Framework, Microsoft SQL Server, JavaScript"
+                                },
+                                {
+                                    "key": "2e42969955a74e6bb810d74691e37aee",
+                                    "componentName": "sectionEntry",
+                                    "title": "Addvena Vetiapp",
+                                    "url": "http://www.addvena.com/",
+                                    "description": "Merging internal invoices system to Comarch Optima accounting system. Creating payment system using ING Bank Śląski API widget.",
+                                    "stack": ".NET Framework, Microsoft SQL Server, JavaScript"
+                                }
+                            ]
+                        },
+                        {
+                            "key": "1414545e7ecd4bd8bd1ac5e72f448ff0",
+                            "componentName": "sectionEntry",
+                            "title": "Capgemini",
+                            "description": "Handle incoming phone calls/ e-mails from customers regarding security and technical issues (English and French).",
+                            "date": "Nov'16-Oct'18",
+                            "url": "https://www.capgemini.com/",
+                            "position": "Customer Service Advisor with French",
+                            "experience": "2 years"
+                        }
+                    ]
+                },
+                {
+                    "key": "9e3ebaae0d8145e3961f502d435ddfe4",
+                    "componentName": "section",
+                    "sectionName": "Certifications",
+                    "elements": [
+                        {
+                            "key": "62ab628583f744009f5830478b2793bb",
+                            "componentName": "sectionEntry",
+                            "title": "Azure Fundamentals certificate",
+                            "date": "2020",
+                            "url": "https://www.youracclaim.com/badges/b33ee1f2-212b-47c6-9845-133fbd16b216/linked_in_profile"
+                        },
+                        {
+                            "key": "1703752604174c8386679510e7d6f9e2",
+                            "componentName": "sectionEntry",
+                            "title": "LabVIEW CLAD",
+                            "date": "2015"
+                        },
+                        {
+                            "key": "ff3734c5d759494c979e12ef7aeccc6e",
+                            "componentName": "sectionEntry",
+                            "title": "DELF B2 - Alliance francaise",
+                            "date": "2015"
+                        },
+                        {
+                            "key": "4c112659b65246718586796d2eddd1c8",
+                            "componentName": "sectionEntry",
+                            "title": "Driver's license cat. B",
+                            "date": "2009"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "key": "4",
+            "key": "37143dfc752c409984ac1020ab4199b2",
             "componentName": "footer",
             "text": "I hereby consent to processing by the advertiser of my personal data, included in my application documents, for the purposes to implement the recruitment process according to the act of 29 August 1997 on personal data protection (consolidated text: Journal of Laws of 2016, pos. 922). I also consent to processing of my personal data by the advertiser for the purposes of any future recruitment processes)"
         }
