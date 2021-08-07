@@ -1,28 +1,46 @@
 {
     "body": [
         {
-            "component": "header",
+            "key": "1",
+            "componentName": "header",
             "firstName" : "Dominik",
             "lastName": "Wieczorek",
             "photoPath" : "dominic_cv.jpg"
         },
         {
-            "component": "sidepane",
-            "Elements": [
+            "key": "2",
+            "componentName": "sidepane",
+            "elements": [
                 {
-                    "Component": "Section",
-                    "Name": "Personal data",
-                    "Elements": [
+                    "key": "1",
+                    "componentName": "section",
+                    "sectionName": "Personal data",
+                    "elements": [
                         {
-                            "Name": "City",
-                            "Value": "Kraków"
+                            "key": "1",
+                            "componentName": "sectionEntry",
+                            "title": "City",
+                            "description": "Kraków"
+                        },
+                        {
+                            "key": "2",
+                            "componentName": "sectionEntry",
+                            "title": "Phone",
+                            "description": "+48 665332808"
+                        },
+                        {
+                            "key": "3",
+                            "componentName": "sectionEntry",
+                            "title": "Mail",
+                            "description": "dominicwieczo@gmail.com"
                         }
                     ]
                 }
             ]
         },
         {
-            "component": "mainpane",
+            "key": "3",
+            "componentName": "mainpane",
             "Section":{
                 "Name": "Work Experience",
                 "Elements": [
@@ -34,7 +52,8 @@
             }
         },
         {
-            "component": "footer",
+            "key": "4",
+            "componentName": "footer",
             "text": "I hereby consent to processing by the advertiser of my personal data, included in my application documents, for the purposes to implement the recruitment process according to the act of 29 August 1997 on personal data protection (consolidated text: Journal of Laws of 2016, pos. 922). I also consent to processing of my personal data by the advertiser for the purposes of any future recruitment processes)"
         }
     ]

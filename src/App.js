@@ -16,7 +16,7 @@ class App extends Component {
 
   render() {
     return (
-      <section class="sheet padding-10mm">
+      <section className="sheet padding-10mm">
         {this.state.data.body?.map(block => Components(block))}
       </section>
     );

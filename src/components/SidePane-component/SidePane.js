@@ -1,13 +1,12 @@
-import './Section.css';
+import './SidePane.css';
 import Components from '../../components'
 
-function Section(props){
+function SidePane(props){
     return (
-        <div>
-            <div>{props.sectionName}</div>
+        <div className="sidepane">
             {props.elements?.map(block => Components(block))}
         </div>
     );
 }
 
-export default Section;
+export default SidePane;

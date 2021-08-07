@@ -1,13 +1,12 @@
-import './Section.css';
+import './MainPane.css';
 import Components from '../../components'
 
-function Section(props){
+function MainPane(props){
     return (
-        <div>
-            <div>{props.sectionName}</div>
+        <div className="mainpane">
             {props.elements?.map(block => Components(block))}
         </div>
     );
 }
 
-export default Section;
+export default MainPane;
