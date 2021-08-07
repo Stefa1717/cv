@@ -1,0 +1,30 @@
+{
+    "Header": {
+        "Name" : "Dominik",
+        "Surname": "Wieczorek",
+        "Photo" : "dominic_cv.jpg"
+    },
+    "Sidepane": {
+        "Section": {
+            "Name": "Personal data",
+            "Elements": [
+                {
+                    "Name": "City",
+                    "Value": "Kraków"
+                }
+            ]
+        }
+    },
+    "Mainpane":{
+        "Section":{
+            "Name": "Work Experience",
+            "Elements": [
+                {
+                    "Name": "KPMG",
+                    "Date": "Jun'20-Now"
+                }
+            ]
+        }
+    },
+    "Footer" : "I hereby consent to processing by the advertiser of my personal data, included in my application documents, for the purposes to implement the recruitment process according to the act of 29 August 1997 on personal data protection (consolidated text: Journal of Laws of 2016, pos. 922). I also consent to processing of my personal data by the advertiser for the purposes of any future recruitment processes)"
+}
