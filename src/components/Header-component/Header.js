@@ -4,7 +4,7 @@ import './Header.css';
 function Header(props){
     return (
         <article>
-            <div>{props.userName}</div>
+            <div>{props.firstName} {props.lastName}</div>
             <img src={props.photoPath} width="100" height="100" />
         </article>
     );
