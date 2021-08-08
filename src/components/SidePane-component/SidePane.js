@@ -3,7 +3,7 @@ import Components from '../../components'
 
 function SidePane(props){
     return (
-        <div className="sidepane">
+        <div className="col-3">
             {props.elements?.map(block => Components(block))}
         </div>
     );

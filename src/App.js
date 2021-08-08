@@ -17,7 +17,11 @@ class App extends Component {
   render() {
     return (
       <div className="app">
-        {this.state.data.body?.map(block => Components(block))}
+        <div className="container">
+          <div className="row">
+            {this.state.data.body?.map(block => Components(block))}
+          </div>
+        </div>
       </div>
     );
   }

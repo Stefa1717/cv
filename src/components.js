@@ -5,6 +5,7 @@ import MainPane from './components/MainPane-component/MainPane'
 import Footer from './components/Footer-component/Footer'
 import Section from './components/Section-component/Section'
 import SectionEntry from './components/SectionEntry-component/SectionEntry'
+import Photo from './components/Photo-component/Photo'
 
 const Components = {
     header: Header,
@@ -12,7 +13,8 @@ const Components = {
     mainpane: MainPane,
     footer: Footer,
     section: Section,
-    sectionEntry: SectionEntry
+    sectionEntry: SectionEntry,
+    photo: Photo,
   };
 
  var components = block => {

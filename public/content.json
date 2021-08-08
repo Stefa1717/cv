@@ -1,17 +1,14 @@
 {
     "body": [
         {
-            "key": "06d4be8f36724ba3b9583bdae9871d19",
-            "componentName": "header",
-            "firstName" : "Dominik",
-            "lastName": "Wieczorek",
-            "photoPath": "dominic_cv.jpg",
-            "jobTitle": ".NET Developer"
-        },
-        {
             "key": "fb56f579eb1c4b93aa88a70bc01faab0",
             "componentName": "sidepane",
             "elements": [
+                {
+                    "key": "724be540ef00478693a1c18bee50eafc",
+                    "componentName": "photo",
+                    "photoPath": "dominic_cv.jpg"
+                },
                 {
                     "key": "724be540ef00478693a1c18bee50eafc",
                     "componentName": "section",
@@ -85,6 +82,13 @@
             "key": "6b895c84642e4bab90fcbce703cf1243",
             "componentName": "mainpane",
             "elements": [
+                {
+                    "key": "06d4be8f36724ba3b9583bdae9871d19",
+                    "componentName": "header",
+                    "firstName" : "Dominik",
+                    "lastName": "Wieczorek",
+                    "jobTitle": ".NET Developer"
+                },
                 {
                     "key": "115cb59ddeac4a30a9ba734e0054893f",
                     "componentName": "section",
@@ -202,13 +206,13 @@
                             "date": "2009"
                         }
                     ]
+                },
+                {
+                    "key": "37143dfc752c409984ac1020ab4199b2",
+                    "componentName": "footer",
+                    "text": "I hereby consent to processing by the advertiser of my personal data, included in my application documents, for the purposes to implement the recruitment process according to the act of 29 August 1997 on personal data protection (consolidated text: Journal of Laws of 2016, pos. 922). I also consent to processing of my personal data by the advertiser for the purposes of any future recruitment processes)"
                 }
             ]
-        },
-        {
-            "key": "37143dfc752c409984ac1020ab4199b2",
-            "componentName": "footer",
-            "text": "I hereby consent to processing by the advertiser of my personal data, included in my application documents, for the purposes to implement the recruitment process according to the act of 29 August 1997 on personal data protection (consolidated text: Journal of Laws of 2016, pos. 922). I also consent to processing of my personal data by the advertiser for the purposes of any future recruitment processes)"
         }
     ]
 }
