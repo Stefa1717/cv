@@ -1,17 +1,17 @@
 import React from "react";
 import Header from './components/Header-component/Header'
-import Section from './components/Section-component/Section'
-import Footer from './components/Footer-component/Footer'
 import SidePane from './components/SidePane-component/SidePane'
 import MainPane from './components/MainPane-component/MainPane'
+import Footer from './components/Footer-component/Footer'
+import Section from './components/Section-component/Section'
 import SectionEntry from './components/SectionEntry-component/SectionEntry'
 
 const Components = {
     header: Header,
-    section: Section,
-    footer: Footer,
     sidepane: SidePane,
     mainpane: MainPane,
+    footer: Footer,
+    section: Section,
     sectionEntry: SectionEntry
   };
 
