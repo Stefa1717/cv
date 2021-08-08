@@ -17,21 +17,17 @@
                         {
                             "key": "79e3d9d3da8f487e903809bc0bf3ef36",
                             "componentName": "sectionEntry",
-                            "title": "Location",
-                            "description": "Kraków, Poland"
+                            "description": "Address: Kraków, Poland"
                         },
                         {
                             "key": "4e29da8e8e3748709846c8e32da36099",
                             "componentName": "sectionEntry",
-                            "title": "Phone",
-                            "description": "+48 665 332 808"
+                            "description": "Mobile: +48 665 332 808"
                         },
                         {
                             "key": "27d93b8fdf26447ea989d22522c4e943",
-                            "componentName": "sectionEntry",
-                            "title": "Mail",
-                            "description": "dominicwieczo@gmail.com",
-                            "descriptionClass": "narrow"
+                            "componentName": "sectionEntry",    
+                            "description": "dominicwieczo@gmail.com"
                         }
                     ]
                 },
@@ -51,6 +47,38 @@
                             "componentName": "language",
                             "language": "French",
                             "stars": 4
+                        }
+                    ]
+                },
+                {
+                    "key": "9e3ebaae0d8145e3961f502d435ddfe4",
+                    "componentName": "section",
+                    "sectionName": "Certifications",
+                    "elements": [
+                        {
+                            "key": "62ab628583f744009f5830478b2793bb",
+                            "componentName": "sectionEntry",
+                            "title": "Azure Fundamentals",
+                            "date": "2020",
+                            "url": "https://www.youracclaim.com/badges/b33ee1f2-212b-47c6-9845-133fbd16b216/linked_in_profile"
+                        },
+                        {
+                            "key": "1703752604174c8386679510e7d6f9e2",
+                            "componentName": "sectionEntry",
+                            "title": "LabVIEW CLAD",
+                            "date": "2015"
+                        },
+                        {
+                            "key": "ff3734c5d759494c979e12ef7aeccc6e",
+                            "componentName": "sectionEntry",
+                            "title": "DELF B2",
+                            "date": "2015"
+                        },
+                        {
+                            "key": "4c112659b65246718586796d2eddd1c8",
+                            "componentName": "sectionEntry",
+                            "title": "Driver's license cat. B",
+                            "date": "2009"
                         }
                     ]
                 },
@@ -173,38 +201,6 @@
                             "url": "https://www.capgemini.com/",
                             "position": "Customer Service Advisor with French",
                             "experience": "2 years"
-                        }
-                    ]
-                },
-                {
-                    "key": "9e3ebaae0d8145e3961f502d435ddfe4",
-                    "componentName": "section",
-                    "sectionName": "Certifications",
-                    "elements": [
-                        {
-                            "key": "62ab628583f744009f5830478b2793bb",
-                            "componentName": "sectionEntry",
-                            "title": "Azure Fundamentals certificate",
-                            "date": "2020",
-                            "url": "https://www.youracclaim.com/badges/b33ee1f2-212b-47c6-9845-133fbd16b216/linked_in_profile"
-                        },
-                        {
-                            "key": "1703752604174c8386679510e7d6f9e2",
-                            "componentName": "sectionEntry",
-                            "title": "LabVIEW CLAD",
-                            "date": "2015"
-                        },
-                        {
-                            "key": "ff3734c5d759494c979e12ef7aeccc6e",
-                            "componentName": "sectionEntry",
-                            "title": "DELF B2 - Alliance francaise",
-                            "date": "2015"
-                        },
-                        {
-                            "key": "4c112659b65246718586796d2eddd1c8",
-                            "componentName": "sectionEntry",
-                            "title": "Driver's license cat. B",
-                            "date": "2009"
                         }
                     ]
                 },

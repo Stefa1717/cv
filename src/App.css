@@ -5,3 +5,9 @@
 a {
     color: black;
 }
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+}
