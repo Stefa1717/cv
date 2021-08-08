@@ -16,17 +16,17 @@
                     "elements": [
                         {
                             "key": "79e3d9d3da8f487e903809bc0bf3ef36",
-                            "componentName": "sectionEntry",
-                            "description": "Address: Kraków, Poland"
+                            "componentName": "shortSectionEntry",
+                            "description": "Location: Kraków, Poland"
                         },
                         {
                             "key": "4e29da8e8e3748709846c8e32da36099",
-                            "componentName": "sectionEntry",
+                            "componentName": "shortSectionEntry",
                             "description": "Mobile: +48 665 332 808"
                         },
                         {
                             "key": "27d93b8fdf26447ea989d22522c4e943",
-                            "componentName": "sectionEntry",    
+                            "componentName": "shortSectionEntry",    
                             "description": "dominicwieczo@gmail.com"
                         }
                     ]
@@ -57,28 +57,10 @@
                     "elements": [
                         {
                             "key": "62ab628583f744009f5830478b2793bb",
-                            "componentName": "sectionEntry",
+                            "componentName": "shortSectionEntry",
                             "title": "Azure Fundamentals",
                             "date": "2020",
                             "url": "https://www.youracclaim.com/badges/b33ee1f2-212b-47c6-9845-133fbd16b216/linked_in_profile"
-                        },
-                        {
-                            "key": "1703752604174c8386679510e7d6f9e2",
-                            "componentName": "sectionEntry",
-                            "title": "LabVIEW CLAD",
-                            "date": "2015"
-                        },
-                        {
-                            "key": "ff3734c5d759494c979e12ef7aeccc6e",
-                            "componentName": "sectionEntry",
-                            "title": "DELF B2",
-                            "date": "2015"
-                        },
-                        {
-                            "key": "4c112659b65246718586796d2eddd1c8",
-                            "componentName": "sectionEntry",
-                            "title": "Driver's license cat. B",
-                            "date": "2009"
                         }
                     ]
                 },
@@ -89,7 +71,7 @@
                     "elements": [
                         {
                             "key": "ca18ce123c11449d83c437e0df0acbc8",
-                            "componentName": "sectionEntry",
+                            "componentName": "shortSectionEntry",
                             "title": "University",
                             "description": "AGH, Master Degree in Biomedical Engineering, specialization in Computer Science and Medical Electronics.",
                             "date": "2010 - 2017",
@@ -97,7 +79,7 @@
                         },
                         {
                             "key": "469b923959284f988e30b7670d354bb6",
-                            "componentName": "sectionEntry",
+                            "componentName": "shortSectionEntry",
                             "title": "High School",
                             "description": "'Good News 2000' Piekary",
                             "date": "2007 - 2010",
@@ -121,7 +103,7 @@
                 {
                     "key": "115cb59ddeac4a30a9ba734e0054893f",
                     "componentName": "section",
-                    "sectionName": "Work Experience - Professional Projects",
+                    "sectionName": "Work Experience",
                     "elements": [
                         {
                             "key": "299b32993bf147bd8f7f3dca1c9b70e2",
@@ -132,14 +114,14 @@
                             "link": "https://home.kpmg/pl/pl/home.html",
                             "position": ".NET Developer",
                             "experience": "1 year",
+                            "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
                             "projects":
                             [
                                 {
                                     "key": "e423590c35ea44f4b2c880c03802f338",
-                                    "componentName": "sectionEntry",
+                                    "componentName": "shortSectionEntry",
                                     "title": "KTax2",
-                                    "description": "Covering tax business logic in graph structure. Creating new sections based on business analityc's documentation. Fixing bugs.",
-                                    "stack": ".NET Framework, Microsoft SQL Server, JavaScript" 
+                                    "description": "Covering tax business logic in graph structure. Creating new sections based on business analityc's documentation."
                                 }
                             ]
                         },
@@ -147,19 +129,19 @@
                             "key": "b1e7cae58d4a4c20997e7e669d6d1b19",
                             "componentName": "sectionEntry",
                             "title": "Primetals Technologies",
-                            "description": "Developing Web Application which manages steel production in ironworks with Primetals - joint venture of Mitsubishi Heavy Industries and Siemens.",
+                            "description": "Developing Web Application which manages steel production in ironworks with Primetals.",
                             "date": "Oct'19-May'20",
                             "link": "https://www.primetals.com/",
                             "position": ".NET Developer",
                             "experience": "6 months",
+                            "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
                             "projects":
                             [
                                 {
                                     "key": "b48e0ff61eb7495f969d21cff078f163",
-                                    "componentName": "sectionEntry",
+                                    "componentName": "shortSectionEntry",
                                     "title": "ProcessExpert",
-                                    "description": "Creating new functionalities in ProcessExpert - HMI tool to manage steel production in ironworks.",
-                                    "stack": ".NET Framework, Microsoft SQL Server, JavaScript"
+                                    "description": "Creating new functionalities in ProcessExpert - HMI tool to manage steel production in ironworks."
                                 }
                             ]
                         },
@@ -172,35 +154,24 @@
                             "url": "https://oroox.com/en",
                             "position": ".NET Developer",
                             "experience": "1 year",
+                            "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
                             "projects":
                             [
                                 {
                                     "key": "d4e696da645d47b48fe27630fb9b48f6",
-                                    "componentName": "sectionEntry",
+                                    "componentName": "shortSectionEntry",
                                     "title": "Estech Webcad",
                                     "url": "http://estech-wizard.client.webcad.com/",
-                                    "description": "Creating E-commerce solution and Authorization module based on OAuth2.0 and Microservices. Developing STEP file calculator.",
-                                    "stack": ".NET Framework, Microsoft SQL Server, JavaScript"
+                                    "description": "Creating E-commerce solution and Authorization module based on OAuth2.0 and Microservices. Developing STEP file calculator."
                                 },
                                 {
                                     "key": "2e42969955a74e6bb810d74691e37aee",
-                                    "componentName": "sectionEntry",
+                                    "componentName": "shortSectionEntry",
                                     "title": "Addvena Vetiapp",
                                     "url": "http://www.addvena.com/",
-                                    "description": "Merging internal invoices system to Comarch Optima accounting system. Creating payment system using ING Bank Śląski API widget.",
-                                    "stack": ".NET Framework, Microsoft SQL Server, JavaScript"
+                                    "description": "Merging internal invoices system to Comarch Optima accounting system. Creating payment system using ING Bank Śląski API widget."
                                 }
                             ]
-                        },
-                        {
-                            "key": "1414545e7ecd4bd8bd1ac5e72f448ff0",
-                            "componentName": "sectionEntry",
-                            "title": "Capgemini",
-                            "description": "Handle incoming phone calls/ e-mails from customers regarding security and technical issues (English and French).",
-                            "date": "Nov'16-Oct'18",
-                            "url": "https://www.capgemini.com/",
-                            "position": "Customer Service Advisor with French",
-                            "experience": "2 years"
                         }
                     ]
                 },

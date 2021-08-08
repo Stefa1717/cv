@@ -3,13 +3,7 @@ import './Language.css';
 function Language(props){
     return (
         <div>
-            <div className="title">{props.language}</div>
-            <div>{PrintStars(props.stars)}</div>
-            {/* { props.stars == 5 && <div>Pięć</div> } 
-            { props.stars == 4 && <div>Cztery</div> }
-            { props.stars == 3 && <div>Trzy</div> }
-            { props.stars == 2 && <div>Dwa</div> }
-            { props.stars == 1 && <div>Jeden</div> } */}
+            <div className="title">{props.language} {PrintStars(props.stars)}</div>
         </div>
     );
 }

@@ -1,0 +1,13 @@
+.additionalInfo {
+    float: right;
+}
+
+.emphasis{
+    font-style: italic;
+}
+
+.projects{
+    margin-left: 10px;
+    font-stretch: condensed;
+    font-size:smaller;
+}

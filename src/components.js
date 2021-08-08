@@ -5,6 +5,7 @@ import MainPane from './components/MainPane-component/MainPane'
 import Footer from './components/Footer-component/Footer'
 import Section from './components/Section-component/Section'
 import SectionEntry from './components/SectionEntry-component/SectionEntry'
+import ShortSectionEntry from './components/shortSectionEntry-component/ShortSectionEntry'
 import Photo from './components/Photo-component/Photo'
 import Language from './components/Language-component/Language'
 
@@ -15,6 +16,7 @@ const Components = {
     footer: Footer,
     section: Section,
     sectionEntry: SectionEntry,
+    shortSectionEntry: ShortSectionEntry,
     photo: Photo,
     language: Language
   };
