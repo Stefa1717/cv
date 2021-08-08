@@ -3,11 +3,11 @@ import Components from '../../components'
 
 function SectionEntry(props){
     return (
-        <div>
+        <div className="sectionEntry">
             <a href={props.link}>
-                <div>{props.title}{props.language}</div>
+                <div className="title">{props.title}</div>
             </a>
-            <div>{props.description}{props.stars}</div>    
+            <div className={props.descriptionClass}>{props.description}</div>
             <div>{props.date}</div>
             {props.projects?.map(block => Components(block))}
         </div>

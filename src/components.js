@@ -6,6 +6,7 @@ import Footer from './components/Footer-component/Footer'
 import Section from './components/Section-component/Section'
 import SectionEntry from './components/SectionEntry-component/SectionEntry'
 import Photo from './components/Photo-component/Photo'
+import Language from './components/Language-component/Language'
 
 const Components = {
     header: Header,
@@ -15,6 +16,7 @@ const Components = {
     section: Section,
     sectionEntry: SectionEntry,
     photo: Photo,
+    language: Language
   };
 
  var components = block => {

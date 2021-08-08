@@ -1,5 +1,10 @@
 .footer {
     position: absolute;
-    left: 100px;
-    top: 1000px; 
+    left: 40px;
+    top: 1050px;
+    margin-right: 40px;
+}
+
+#agreement {
+    font-size: xx-small;
 }

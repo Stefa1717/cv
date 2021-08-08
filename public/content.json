@@ -10,7 +10,7 @@
                     "photoPath": "dominic_cv.jpg"
                 },
                 {
-                    "key": "724be540ef00478693a1c18bee50eafc",
+                    "key": "cfddb8ca9b2646d9979fd6c685e57952",
                     "componentName": "section",
                     "sectionName": "Personal data",
                     "elements": [
@@ -30,7 +30,8 @@
                             "key": "27d93b8fdf26447ea989d22522c4e943",
                             "componentName": "sectionEntry",
                             "title": "Mail",
-                            "description": "dominicwieczo@gmail.com"
+                            "description": "dominicwieczo@gmail.com",
+                            "descriptionClass": "narrow"
                         }
                     ]
                 },
@@ -41,15 +42,15 @@
                     "elements": [
                         {
                             "key": "13e95276ac104ad6af422b7ff71e2885",
-                            "componentName": "sectionEntry",
+                            "componentName": "language",
                             "language": "English",
-                            "stars": "5"
+                            "stars": 5
                         },
                         {
                             "key": "c51efbfd9e1a497cadbbce38ea8086a6",
-                            "componentName": "sectionEntry",
+                            "componentName": "language",
                             "language": "French",
-                            "stars": "4"
+                            "stars": 4
                         }
                     ]
                 },

@@ -3,7 +3,7 @@ import './Photo.css';
 function Photo(props){
     return (
         <div className = "photo">
-            <img src={props.photoPath} width="80" height="100" alt="profile" />
+            <img src={props.photoPath} alt="profile" />
         </div>
     );
 }

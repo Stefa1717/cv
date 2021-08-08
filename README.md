@@ -1,5 +1,6 @@
 # In the project where used:
-https://github.com/cognitom/paper-css
+https://github.com/cognitom/paper-css to make it A4
+https://www.storyblok.com/tp/react-dynamic-component-from-json to load components from json file tree
 
 
 

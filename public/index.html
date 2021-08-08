@@ -26,7 +26,14 @@
     -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/paper-css/0.3.0/paper.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-    <style>@page { size: A4 }</style>
+    <style>
+      @page { size: A4; }
+      @media (min-width: 576px) {
+        .container, .container-sm {
+          max-width: initial;
+        } 
+      }
+    </style>
     <title>React App</title>
   </head>
   <body class="A4">

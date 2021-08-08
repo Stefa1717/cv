@@ -4,7 +4,7 @@ import Components from '../../components'
 function Section(props){
     return (
         <div>
-            <div>{props.sectionName}</div>
+            <div className="sectionName">{props.sectionName}</div>
             {props.elements?.map(block => Components(block))}
         </div>
     );

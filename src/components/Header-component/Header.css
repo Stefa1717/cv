@@ -1,3 +1,12 @@
-/* .header {
-    display: inline;
-} */
+#name {
+    font-size: x-large;
+    font-weight: lighter;
+}
+
+.lastName {
+    font-weight: bold;
+}
+
+.jobTitle {
+    margin-left: 100px;
+}
