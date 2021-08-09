@@ -12,7 +12,6 @@
                 {
                     "key": "cfddb8ca9b2646d9979fd6c685e57952",
                     "componentName": "section",
-                    "sectionName": "Personal data",
                     "elements": [
                         {
                             "key": "79e3d9d3da8f487e903809bc0bf3ef36",
@@ -32,6 +31,52 @@
                     ]
                 },
                 {
+                    "key": "9e3ebaae0d8145e3961f502d435ddfe4",
+                    "componentName": "section",
+                    "sectionName": "Certifications",
+                    "elements": [
+                        {
+                            "key": "62ab628583f744009f5830478b2793bb",
+                            "componentName": "shortSectionEntry",
+                            "title": "Azure Fundamentals",
+                            "date": "2020",
+                            "url": "https://www.youracclaim.com/badges/b33ee1f2-212b-47c6-9845-133fbd16b216/linked_in_profile"
+                        }
+                    ]
+                },
+                {
+                    "key": "68977cd26d704e3eaeac1033198d2b3b",
+                    "componentName": "section",
+                    "sectionName": "Stack",
+                    "elements": [
+                        {
+                            "key": "19b44cdee93846bf876a75fcd9586df0",
+                            "componentName": "shortSectionEntry",
+                            "title": "ASP.NET Framework"
+                        },
+                        {
+                            "key": "e015b4e5ca9a4f8684b01f1122d2bd52",
+                            "componentName": "shortSectionEntry",
+                            "description": "Microsoft SQL Server"
+                        },
+                        {
+                            "key": "b17075244d5f464eaae0b00c9cb18afc",
+                            "componentName": "shortSectionEntry",
+                            "description": "Entity Framework"
+                        },
+                        {
+                            "key": "c0d6ba2a38da417697e4afc85d9a6fd4",
+                            "componentName": "shortSectionEntry",
+                            "description": "LINQ"
+                        },
+                        {
+                            "key": "8c55133734384ccebe75780e3ede04fe",
+                            "componentName": "shortSectionEntry",
+                            "description": "React"
+                        }
+                    ]
+                },
+                {
                     "key": "f07a1cb604d543d7b51ad019cc31e8db",
                     "componentName": "section",
                     "sectionName": "Languages",
@@ -47,43 +92,6 @@
                             "componentName": "language",
                             "language": "French",
                             "stars": 4
-                        }
-                    ]
-                },
-                {
-                    "key": "9e3ebaae0d8145e3961f502d435ddfe4",
-                    "componentName": "section",
-                    "sectionName": "Certifications",
-                    "elements": [
-                        {
-                            "key": "62ab628583f744009f5830478b2793bb",
-                            "componentName": "shortSectionEntry",
-                            "title": "Azure Fundamentals",
-                            "date": "2020",
-                            "url": "https://www.youracclaim.com/badges/b33ee1f2-212b-47c6-9845-133fbd16b216/linked_in_profile"
-                        }
-                    ]
-                },
-                {
-                    "key": "a797cf3a7f7041e7ae643743838f4b65",
-                    "componentName": "section",
-                    "sectionName": "Education",
-                    "elements": [
-                        {
-                            "key": "ca18ce123c11449d83c437e0df0acbc8",
-                            "componentName": "shortSectionEntry",
-                            "title": "University",
-                            "description": "AGH, Master Degree in Biomedical Engineering, specialization in Computer Science and Medical Electronics.",
-                            "date": "2010 - 2017",
-                            "link": "https://kandydaci.agh.edu.pl/studia/inzynieria-biomedyczna/"
-                        },
-                        {
-                            "key": "469b923959284f988e30b7670d354bb6",
-                            "componentName": "shortSectionEntry",
-                            "title": "High School",
-                            "description": "'Good News 2000' Piekary",
-                            "date": "2007 - 2010",
-                            "link": "http://www.liceum.radosnanowina.pl/"
                         }
                     ]
                 }
@@ -109,11 +117,11 @@
                             "key": "299b32993bf147bd8f7f3dca1c9b70e2",
                             "componentName": "sectionEntry",
                             "title": "KPMG",
-                            "description": "Extend app generating tax returns in Swiss cantons.",
-                            "date": "Jun'20-Now",
+                            "description": "Extending .Net Web App which generate tax returns in Swiss cantons.",
+                            "date": "VI 2020 - Now",
                             "link": "https://home.kpmg/pl/pl/home.html",
                             "position": ".NET Developer",
-                            "experience": "1 year",
+                            "experience": "(1 year)",
                             "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
                             "projects":
                             [
@@ -129,11 +137,11 @@
                             "key": "b1e7cae58d4a4c20997e7e669d6d1b19",
                             "componentName": "sectionEntry",
                             "title": "Primetals Technologies",
-                            "description": "Developing Web Application which manages steel production in ironworks with Primetals.",
-                            "date": "Oct'19-May'20",
+                            "description": "Developing Web Application which manages steel production.",
+                            "date": "X 2019 - V 20220",
                             "link": "https://www.primetals.com/",
                             "position": ".NET Developer",
-                            "experience": "6 months",
+                            "experience": "(6 months)",
                             "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
                             "projects":
                             [
@@ -148,12 +156,12 @@
                         {
                             "key": "a1909f19a56d41078b1cf4a001335e90",
                             "componentName": "sectionEntry",
-                            "title": "Oroox Lab",
+                            "title": "Idealogic / Oroox Lab.",
                             "description": "Developing online shop (Addvena) with Idealogic. Developing digital STEP file analysis (Estech Digital) and creating ecommerce platform with Oroox - Swiss metal industry company.",
-                            "date": "Oct'18-Sep'19",
+                            "date": "X 2018 - IX 2019",
                             "url": "https://oroox.com/en",
                             "position": ".NET Developer",
-                            "experience": "1 year",
+                            "experience": "(1 year)",
                             "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
                             "projects":
                             [
@@ -170,6 +178,29 @@
                                     "title": "Addvena Vetiapp",
                                     "url": "http://www.addvena.com/",
                                     "description": "Merging internal invoices system to Comarch Optima accounting system. Creating payment system using ING Bank Śląski API widget."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "a797cf3a7f7041e7ae643743838f4b65",
+                    "componentName": "section",
+                    "sectionName": "Education",
+                    "elements": [
+                        {
+                            "key": "ca18ce123c11449d83c437e0df0acbc8",
+                            "componentName": "sectionEntry",
+                            "title": "University",
+                            "description": "AGH, Master Degree in Biomedical Engineering",
+                            "date": "2010 - 2017",
+                            "link": "https://kandydaci.agh.edu.pl/studia/inzynieria-biomedyczna/",
+                            "projects":
+                            [
+                                {
+                                    "key": "96fdd5bb8bf042018a0e8eb95949a726",
+                                    "componentName": "shortSectionEntry",
+                                    "description": "Specialization in Computer Science and Medical Electronics."
                                 }
                             ]
                         }

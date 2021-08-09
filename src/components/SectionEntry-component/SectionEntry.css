@@ -1,5 +1,7 @@
 .additionalInfo {
     float: right;
+    font-stretch: condensed;
+    font-size:smaller;
 }
 
 .emphasis{
@@ -7,7 +9,12 @@
 }
 
 .projects{
-    margin-left: 10px;
+    margin-left: 40px;
     font-stretch: condensed;
     font-size:smaller;
+}
+
+.sectionEntry {
+    margin-top: 10px;
+    margin-bottom: 40px;
 }

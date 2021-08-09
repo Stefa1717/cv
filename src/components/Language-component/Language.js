@@ -3,7 +3,7 @@ import './Language.css';
 function Language(props){
     return (
         <div>
-            <div className="title">{props.language} {PrintStars(props.stars)}</div>
+            <div>{props.language} {PrintStars(props.stars)}</div>
         </div>
     );
 }
