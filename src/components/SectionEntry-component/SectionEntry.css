@@ -8,13 +8,14 @@
     font-style: italic;
 }
 
-.projects{
+.tasks{
+    margin-top: 5px;;
     margin-left: 40px;
     font-stretch: condensed;
     font-size:smaller;
 }
 
 .sectionEntry {
-    margin-top: 10px;
+    margin-top: 5px;
     margin-bottom: 40px;
 }

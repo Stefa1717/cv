@@ -27,6 +27,12 @@
                             "key": "27d93b8fdf26447ea989d22522c4e943",
                             "componentName": "shortSectionEntry",    
                             "description": "dominicwieczo@gmail.com"
+                        },
+                        {
+                            "key": "fbca15df445e49b8b8a229206db1f1e7",
+                            "componentName": "shortSectionEntry",    
+                            "description": "github.com/mrevening",
+                            "descriptionUrl": "https://github.com/mrevening"
                         }
                     ]
                 },
@@ -38,9 +44,9 @@
                         {
                             "key": "62ab628583f744009f5830478b2793bb",
                             "componentName": "shortSectionEntry",
-                            "title": "Azure Fundamentals",
+                            "description": "Azure Fundamentals",
                             "date": "2020",
-                            "url": "https://www.youracclaim.com/badges/b33ee1f2-212b-47c6-9845-133fbd16b216/linked_in_profile"
+                            "descriptionUrl": "https://www.youracclaim.com/badges/b33ee1f2-212b-47c6-9845-133fbd16b216/linked_in_profile"
                         }
                     ]
                 },
@@ -52,7 +58,7 @@
                         {
                             "key": "19b44cdee93846bf876a75fcd9586df0",
                             "componentName": "shortSectionEntry",
-                            "title": "ASP.NET Framework"
+                            "description": "ASP.NET Framework"
                         },
                         {
                             "key": "e015b4e5ca9a4f8684b01f1122d2bd52",
@@ -73,6 +79,21 @@
                             "key": "8c55133734384ccebe75780e3ede04fe",
                             "componentName": "shortSectionEntry",
                             "description": "React"
+                        },
+                        {
+                            "key": "8c55133734384ccebe75780e3ede04fe",
+                            "componentName": "shortSectionEntry",
+                            "description": "Git"
+                        },
+                        {
+                            "key": "8c55133734384ccebe75780e3ede04fe",
+                            "componentName": "shortSectionEntry",
+                            "description": "Azure DevOps"
+                        },
+                        {
+                            "key": "8c55133734384ccebe75780e3ede04fe",
+                            "componentName": "shortSectionEntry",
+                            "description": "Telerik Kendo"
                         }
                     ]
                 },
@@ -117,19 +138,43 @@
                             "key": "299b32993bf147bd8f7f3dca1c9b70e2",
                             "componentName": "sectionEntry",
                             "title": "KPMG",
-                            "description": "Extending .Net Web App which generate tax returns in Swiss cantons.",
+                            "description": "Extending App which generate tax returns in Swiss cantons.",
                             "date": "VI 2020 - Now",
                             "link": "https://home.kpmg/pl/pl/home.html",
                             "position": ".NET Developer",
                             "experience": "(1 year)",
                             "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
-                            "projects":
+                            "tasks":
                             [
                                 {
+                                    "key": "ba40a2cce010494f863e78b6d78dc95d",
+                                    "componentName": "task",
+                                    "text": "Role: .NET Developer"
+                                },
+                                {
+                                    "key": "2187ac86170e4db28de71c6dacd19ff7",
+                                    "componentName": "task",
+                                    "text": "Stack: .NET Framework, Microsoft SQL Server, JavaScript"
+                                },
+                                {
+                                    "key": "9f420ea7506146598f2c4f5c0720cb7a",
+                                    "componentName": "task",
+                                    "text": "Covering taxes business logic in graph structure"
+                                },
+                                {
                                     "key": "e423590c35ea44f4b2c880c03802f338",
-                                    "componentName": "shortSectionEntry",
-                                    "title": "KTax2",
-                                    "description": "Covering tax business logic in graph structure. Creating new sections based on business analityc's documentation."
+                                    "componentName": "task",
+                                    "text": "Creating new sections based on business analytic's documentation"
+                                },
+                                {
+                                    "key": "171c44a67d394955aa01461a242f38ec",
+                                    "componentName": "task",
+                                    "text": "Writing tests covering business logic"
+                                },
+                                {
+                                    "key": "517d8ffe706c46e7809bb96a92a6bc2f",
+                                    "componentName": "task",
+                                    "text": "Refactoring old code using good programming practices"
                                 }
                             ]
                         },
@@ -143,41 +188,65 @@
                             "position": ".NET Developer",
                             "experience": "(6 months)",
                             "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
-                            "projects":
+                            "tasks":
                             [
                                 {
+                                    "key": "c8763ebd4f6c47d9b9541c8b72cc8aec",
+                                    "componentName": "task",
+                                    "text": "Role: .NET Developer"
+                                },
+                                {
+                                    "key": "59f11505367a41d1b81a7dfc11f61f00",
+                                    "componentName": "task",
+                                    "text": "Stack: .NET Framework, Microsoft SQL Server, JavaScript"
+                                },
+                                {
                                     "key": "b48e0ff61eb7495f969d21cff078f163",
-                                    "componentName": "shortSectionEntry",
-                                    "title": "ProcessExpert",
-                                    "description": "Creating new functionalities in ProcessExpert - HMI tool to manage steel production in ironworks."
-                                }
+                                    "componentName": "task",
+                                    "text": "Creating new functionalities in ironworks HMI tool"
+                                }                              
                             ]
                         },
                         {
                             "key": "a1909f19a56d41078b1cf4a001335e90",
                             "componentName": "sectionEntry",
-                            "title": "Idealogic / Oroox Lab.",
-                            "description": "Developing online shop (Addvena) with Idealogic. Developing digital STEP file analysis (Estech Digital) and creating ecommerce platform with Oroox - Swiss metal industry company.",
+                            "title": "Idealogic",
+                            "description": "Delivering solutions for Addvena - online pet food shop - and Oroox - Swiss metal industry company.",
                             "date": "X 2018 - IX 2019",
                             "url": "https://oroox.com/en",
                             "position": ".NET Developer",
                             "experience": "(1 year)",
                             "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
-                            "projects":
+                            "tasks":
                             [
                                 {
+                                    "key": "d28f4f6d2a334f9a8782e20b7a8bc684",
+                                    "componentName": "task",
+                                    "text": "Role: .NET Developer"
+                                },
+                                {
+                                    "key": "18f28cccff3d4b36807f80b25b8a7a60",
+                                    "componentName": "task",
+                                    "text": "Stack: .NET Framework, Microsoft SQL Server, JavaScript"
+                                },
+                                {
                                     "key": "d4e696da645d47b48fe27630fb9b48f6",
-                                    "componentName": "shortSectionEntry",
-                                    "title": "Estech Webcad",
-                                    "url": "http://estech-wizard.client.webcad.com/",
-                                    "description": "Creating E-commerce solution and Authorization module based on OAuth2.0 and Microservices. Developing STEP file calculator."
+                                    "componentName": "task",
+                                    "title": "Estech Webcad (STEP file calculator)",
+                                    "titleUrl": "http://estech-wizard.client.webcad.com/",
+                                    "text": " - Creating E-commerce solution and Authorization module based on OAuth2.0 and Microservices"
+                                },
+                                {
+                                    "key": "1b74bfcf08b7479fb6b127f124da6813",
+                                    "componentName": "task",
+                                    "title": "Vetiapp",
+                                    "titleUrl": "http://www.addvena.com/",
+                                    "text": " - adding payment system using ING Bank Śląski API widget"
                                 },
                                 {
                                     "key": "2e42969955a74e6bb810d74691e37aee",
-                                    "componentName": "shortSectionEntry",
-                                    "title": "Addvena Vetiapp",
-                                    "url": "http://www.addvena.com/",
-                                    "description": "Merging internal invoices system to Comarch Optima accounting system. Creating payment system using ING Bank Śląski API widget."
+                                    "componentName": "task",
+                                    "text": "Merging internal invoices system to Comarch Optima accounting system"
                                 }
                             ]
                         }
@@ -195,12 +264,19 @@
                             "description": "AGH, Master Degree in Biomedical Engineering",
                             "date": "2010 - 2017",
                             "link": "https://kandydaci.agh.edu.pl/studia/inzynieria-biomedyczna/",
-                            "projects":
+                            "tasks":
                             [
                                 {
                                     "key": "96fdd5bb8bf042018a0e8eb95949a726",
-                                    "componentName": "shortSectionEntry",
-                                    "description": "Specialization in Computer Science and Medical Electronics."
+                                    "componentName": "task",
+                                    "text": "Specialization in Computer Science and Medical Electronics."
+                                },
+                                {
+                                    "key": "10e06c50e64249f486deba7a63c61a3b",
+                                    "componentName": "task",
+                                    "title": "Thesis project - RejSM",
+                                    "titleUrl": "https://rejsm.agh.edu.pl/",
+                                    "text": "- migrate biggest polish multiple sclerosis database (PHP, MySQL) to WordPress."
                                 }
                             ]
                         }

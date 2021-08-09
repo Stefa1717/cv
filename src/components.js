@@ -5,9 +5,10 @@ import MainPane from './components/MainPane-component/MainPane'
 import Footer from './components/Footer-component/Footer'
 import Section from './components/Section-component/Section'
 import SectionEntry from './components/SectionEntry-component/SectionEntry'
-import ShortSectionEntry from './components/shortSectionEntry-component/ShortSectionEntry'
+import ShortSectionEntry from './components/ShortSectionEntry-component/ShortSectionEntry'
 import Photo from './components/Photo-component/Photo'
 import Language from './components/Language-component/Language'
+import Task from './components/Task-component/Task'
 
 const Components = {
     header: Header,
@@ -18,7 +19,8 @@ const Components = {
     sectionEntry: SectionEntry,
     shortSectionEntry: ShortSectionEntry,
     photo: Photo,
-    language: Language
+    language: Language,
+    task: Task
   };
 
  var components = block => {

@@ -3,8 +3,8 @@ import './ShortSectionEntry.css';
 function ShortSectionEntry(props){
     return (
         <div className="shortSectionEntry">
-            <a href={props.link}><div className="title">{props.title}</div></a>
-            <div>{props.description}</div>
+            <a href={props.titleUrl}><div className="title">{props.title}</div></a>
+            <a href={props.descriptionUrl}><div>{props.description}</div></a>
             <div>{props.date}</div>
         </div>
     );

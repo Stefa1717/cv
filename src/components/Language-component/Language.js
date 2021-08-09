@@ -3,27 +3,28 @@ import './Language.css';
 function Language(props){
     return (
         <div>
-            <div>{props.language} {PrintStars(props.stars)}</div>
+            {props.language} {PrintStars(props.stars)}
         </div>
     );
 }
 
 function PrintStars(blackStarsCount){
     let result = [];
-    const blackStar = <span>&#9733;</span>;
-    const whiteStar = <span>&#9734;</span>;
+    let key = 0;
+    const blackStar = (k) => <span key={k}>&#9733;</span>;
+    const whiteStar = (k) => <span key={k}>&#9734;</span>;
     const maxStarsCount = 5;
     const whiteStarsCount = maxStarsCount - blackStarsCount;
-
+    
     function AddBlackStar(count){
-        if (count == 0) return;
-        result.push(blackStar);
+        if (count === 0) return;
+        result.push(blackStar(key++));
         AddBlackStar(count-1)
     }
     
     function AddWhiteStar(count){
-        if (count == 0) return;
-        result.push(whiteStar)
+        if (count === 0) return;
+        result.push(whiteStar(key++))
         AddWhiteStar(count-1)
     }
 
