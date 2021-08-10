@@ -56,6 +56,11 @@
                     "sectionName": "Stack",
                     "elements": [
                         {
+                            "key": "bd0730cb3fd848899fa9e90d01b703c1",
+                            "componentName": "shortSectionEntry",
+                            "title": "Main Professional tools:"
+                        },
+                        {
                             "key": "19b44cdee93846bf876a75fcd9586df0",
                             "componentName": "shortSectionEntry",
                             "description": "ASP.NET Framework"
@@ -64,6 +69,11 @@
                             "key": "e015b4e5ca9a4f8684b01f1122d2bd52",
                             "componentName": "shortSectionEntry",
                             "description": "Microsoft SQL Server"
+                        },
+                        {
+                            "key": "492d14f6d5a54214ba00631596018cef",
+                            "componentName": "shortSectionEntry",
+                            "title": "Helping tools:"
                         },
                         {
                             "key": "b17075244d5f464eaae0b00c9cb18afc",
@@ -78,22 +88,33 @@
                         {
                             "key": "8c55133734384ccebe75780e3ede04fe",
                             "componentName": "shortSectionEntry",
+                            "description": "Git"
+                        },
+                        
+                        {
+                            "key": "5814fba798034beaa856d46eb04a8e49",
+                            "componentName": "shortSectionEntry",
+                            "title": "Home skilled:"
+                        },
+                        {
+                            "key": "8c55133734384ccebe75780e3ede04fe",
+                            "componentName": "shortSectionEntry",
                             "description": "React"
                         },
                         {
-                            "key": "8c55133734384ccebe75780e3ede04fe",
+                            "key": "d657894e2740462994ee9114406bfb2b",
                             "componentName": "shortSectionEntry",
-                            "description": "Git"
+                            "title": "Used in the past"
                         },
                         {
-                            "key": "8c55133734384ccebe75780e3ede04fe",
+                            "key": "8e95d49f13e249e1a8e4246d51c6fb04",
                             "componentName": "shortSectionEntry",
-                            "description": "Azure DevOps"
+                            "description": "LabVIEW"
                         },
                         {
-                            "key": "8c55133734384ccebe75780e3ede04fe",
+                            "key": "c6b03fb27a7145acb1e630a0bc5f6108",
                             "componentName": "shortSectionEntry",
-                            "description": "Telerik Kendo"
+                            "description": "WordPress"
                         }
                     ]
                 },
@@ -140,7 +161,7 @@
                             "title": "KPMG",
                             "description": "Extending App which generate tax returns in Swiss cantons.",
                             "date": "VI 2020 - Now",
-                            "link": "https://home.kpmg/pl/pl/home.html",
+                            "url": "https://home.kpmg/pl/pl/home.html",
                             "position": ".NET Developer",
                             "experience": "(1 year)",
                             "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
@@ -184,7 +205,7 @@
                             "title": "Primetals Technologies",
                             "description": "Developing Web Application which manages steel production.",
                             "date": "X 2019 - V 20220",
-                            "link": "https://www.primetals.com/",
+                            "url": "https://www.primetals.com/",
                             "position": ".NET Developer",
                             "experience": "(6 months)",
                             "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
@@ -232,7 +253,7 @@
                                 {
                                     "key": "d4e696da645d47b48fe27630fb9b48f6",
                                     "componentName": "task",
-                                    "title": "Estech Webcad (STEP file calculator)",
+                                    "title": "Estech Webcad",
                                     "titleUrl": "http://estech-wizard.client.webcad.com/",
                                     "text": " - Creating E-commerce solution and Authorization module based on OAuth2.0 and Microservices"
                                 },
@@ -260,10 +281,10 @@
                         {
                             "key": "ca18ce123c11449d83c437e0df0acbc8",
                             "componentName": "sectionEntry",
-                            "title": "University",
-                            "description": "AGH, Master Degree in Biomedical Engineering",
+                            "title": "AGH",
+                            "description": "Master Degree in Biomedical Engineering",
                             "date": "2010 - 2017",
-                            "link": "https://kandydaci.agh.edu.pl/studia/inzynieria-biomedyczna/",
+                            "url": "https://kandydaci.agh.edu.pl/studia/inzynieria-biomedyczna/",
                             "tasks":
                             [
                                 {
