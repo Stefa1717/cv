@@ -1,5 +1,3 @@
-import './Task.css';
-
 function Task(props){
     return (
         <li>

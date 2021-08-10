@@ -1,4 +1,3 @@
-import './MainPane.css';
 import Components from '../../components'
 
 function MainPane(props){

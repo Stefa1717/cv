@@ -1,4 +1,3 @@
-import './Section.css';
 import Components from '../../components'
 
 function Section(props){

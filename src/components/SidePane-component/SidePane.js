@@ -1,4 +1,3 @@
-import './SidePane.css';
 import Components from '../../components'
 
 function SidePane(props){

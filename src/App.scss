@@ -1,0 +1,21 @@
+@use 'components/Footer-component/Footer';
+@use 'components/Header-component/Header';
+@use 'components/Photo-component/Photo';
+@use 'components/Section-component/Section';
+@use 'components/SectionEntry-component/SectionEntry';
+@use 'components/SidePane-component/SidePane';
+
+
+.title {
+    font-weight: bold;
+}
+
+a {
+    color: black;
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+}

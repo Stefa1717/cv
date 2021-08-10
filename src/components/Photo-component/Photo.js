@@ -1,5 +1,3 @@
-import './Photo.css';
-
 function Photo(props){
     return (
         <div className = "photo">
