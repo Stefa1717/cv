@@ -1,9 +1,9 @@
-@use 'components/Footer-component/Footer';
-@use 'components/Header-component/Header';
-@use 'components/Photo-component/Photo';
-@use 'components/Section-component/Section';
-@use 'components/SectionEntry-component/SectionEntry';
-@use 'components/SidePane-component/SidePane';
+@use 'components/Footer/Footer';
+@use 'components/Header/Header';
+@use 'components/Photo/Photo';
+@use 'components/Section/Section';
+@use 'components/SectionEntry/SectionEntry';
+@use 'components/SidePane/SidePane';
 
 $main-color: black;
 $title-font-weight: bold;

@@ -1,14 +1,14 @@
 import React from "react";
-import Header from './components/Header-component/Header'
-import SidePane from './components/SidePane-component/SidePane'
-import MainPane from './components/MainPane-component/MainPane'
-import Footer from './components/Footer-component/Footer'
-import Section from './components/Section-component/Section'
-import SectionEntry from './components/SectionEntry-component/SectionEntry'
-import ShortSectionEntry from './components/ShortSectionEntry-component/ShortSectionEntry'
-import Photo from './components/Photo-component/Photo'
-import Language from './components/Language-component/Language'
-import Task from './components/Task-component/Task'
+import Header from './components/Header/Header'
+import SidePane from './components/SidePane/SidePane'
+import MainPane from './components/MainPane/MainPane'
+import Footer from './components/Footer/Footer'
+import Section from './components/Section/Section'
+import SectionEntry from './components/SectionEntry/SectionEntry'
+import ShortSectionEntry from './components/ShortSectionEntry/ShortSectionEntry'
+import Photo from './components/Photo/Photo'
+import Language from './components/Language/Language'
+import Task from './components/Task/Task'
 
 const Components = {
     header: Header,
