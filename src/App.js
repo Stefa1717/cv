@@ -1,29 +1,22 @@
-import React, {Component} from "react";
+import React, {useEffect, useState} from "react";
 import './App.css';
 import Components from './components'
 
-class App extends Component {
-  constructor() {
-    super();
-    this.state = { data: {} };
-  }
+function App ({contentPath}){
+  const [content, setContent] = useState(null);
 
-  componentDidMount() {
-    fetch(this.props.content)
-      .then(res => res.json())
-      .then(json => this.setState({ data: json }));
-  }
+  useEffect(() => { 
+    fetch(contentPath).then(res => res.json()).then(setContent).catch(console.error)
+  }, []);
 
-  render() {
-    return (
-      <div className="app">
-        <div className="container">
-          <div className="row">
-            {this.state.data.body?.map(block => Components(block))}
-          </div>
+  return (
+    <div className="app">
+      <div className="container">
+        <div className="row">
+          {content?.body.map(block => Components(block))}
         </div>
       </div>
-    );
-  }
+    </div>
+  );
 }
 export default App;

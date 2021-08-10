@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App content = "content.json" />
+    <App contentPath = "content.json" />
   </React.StrictMode>,
   document.getElementById('root')
 );
