@@ -290,14 +290,14 @@
                                 {
                                     "key": "96fdd5bb8bf042018a0e8eb95949a726",
                                     "componentName": "task",
-                                    "text": "Specialization in Computer Science and Medical Electronics."
+                                    "text": "Specialization in Computer Science and Medical Electronics"
                                 },
                                 {
                                     "key": "10e06c50e64249f486deba7a63c61a3b",
                                     "componentName": "task",
                                     "title": "Thesis project - RejSM",
                                     "titleUrl": "https://rejsm.agh.edu.pl/",
-                                    "text": "- migrate biggest polish multiple sclerosis database (PHP, MySQL) to WordPress."
+                                    "text": "- migrate biggest polish multiple sclerosis database (PHP, MySQL) to WordPress"
                                 }
                             ]
                         }
