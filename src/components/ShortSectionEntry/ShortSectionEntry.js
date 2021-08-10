@@ -1,9 +1,9 @@
-function ShortSectionEntry(props){
+function ShortSectionEntry({title, titleUrl, description, descriptionUrl, date}){
     return (
         <div>
-            <a href={props.titleUrl}><div className="title">{props.title}</div></a>
-            <a href={props.descriptionUrl}><div>{props.description}</div></a>
-            <div>{props.date}</div>
+            <a href={titleUrl}><div className="title">{title}</div></a>
+            <a href={descriptionUrl}><div>{description}</div></a>
+            <div>{date}</div>
         </div>
     );
 }

@@ -1,7 +1,7 @@
-function Task(props){
+function Task({title, titleUrl, text}){
     return (
         <li>
-            <a href={props.titleUrl}><span>{props.title}</span></a> {props.text}
+            <a href={titleUrl}><span>{title}</span></a> {text}
         </li>
     );
 }

@@ -1,7 +1,7 @@
-function Photo(props){
+function Photo({photoPath}){
     return (
         <div className = "photo">
-            <img src={props.photoPath} alt="profile" />
+            <img src={photoPath} alt="profile" />
         </div>
     );
 }

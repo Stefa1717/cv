@@ -1,7 +1,7 @@
-function Language(props){
+function Language({language, stars}){
     return (
         <div>
-            {props.language} {PrintStars(props.stars)}
+            {language} {PrintStars(stars)}
         </div>
     );
 }

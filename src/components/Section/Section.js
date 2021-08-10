@@ -1,10 +1,10 @@
 import Components from '../../components'
 
-function Section(props){
+function Section({sectionName, elements}){
     return (
         <div className="section">
-            <div className="sectionName">{props.sectionName}</div>
-            {props.elements?.map(block => Components(block))}
+            <div className="sectionName">{sectionName}</div>
+            {elements?.map(block => Components(block))}
         </div>
     );
 }

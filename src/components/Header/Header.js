@@ -1,10 +1,10 @@
-function Header(props){
+function Header({firstName, lastName, jobTitle}){
     return (
         <div id="header">
             <div id="name">
-                <span>{props.firstName}</span><span className="lastName">{props.lastName}</span>
+                <span>{firstName}</span><span className="lastName">{lastName}</span>
             </div>
-            <div className="jobTitle">{props.jobTitle}</div>
+            <div className="jobTitle">{jobTitle}</div>
             <hr />
         </div>
     );

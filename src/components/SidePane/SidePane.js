@@ -1,9 +1,9 @@
 import Components from '../../components'
 
-function SidePane(props){
+function SidePane({elements}){
     return (
         <div id="sidepane" className="col-3">
-            {props.elements?.map(block => Components(block))}
+            {elements?.map(block => Components(block))}
         </div>
     );
 }

@@ -1,9 +1,9 @@
 import Components from '../../components'
 
-function MainPane(props){
+function MainPane({elements}){
     return (
         <div className="col-9">
-            {props.elements?.map(block => Components(block))}
+            {elements?.map(block => Components(block))}
         </div>
     );
 }

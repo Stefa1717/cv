@@ -1,7 +1,7 @@
-function Footer(props){
+function Footer({text}){
     return (
         <div className = "footer">
-            <div id="agreement">{props.text}</div>
+            <div id="agreement">{text}</div>
         </div>
     );
 }
