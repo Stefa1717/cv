@@ -5,13 +5,15 @@
 @use 'components/SectionEntry-component/SectionEntry';
 @use 'components/SidePane-component/SidePane';
 
+$main-color: black;
+$title-font-weight: bold;
 
 .title {
-    font-weight: bold;
+    font-weight: $title-font-weight;
 }
 
 a {
-    color: black;
+    color: $main-color;
 }
 
 @media print {
