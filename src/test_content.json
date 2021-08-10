@@ -1,0 +1,314 @@
+{
+    "body": [
+        {
+            "key": "fb56f579eb1c4b93aa88a70bc01faab0",
+            "componentName": "sidepane",
+            "elements": [
+                {
+                    "key": "724be540ef00478693a1c18bee50eafc",
+                    "componentName": "photo",
+                    "photoPath": "dominic_cv.jpg"
+                },
+                {
+                    "key": "cfddb8ca9b2646d9979fd6c685e57952",
+                    "componentName": "section",
+                    "elements": [
+                        {
+                            "key": "79e3d9d3da8f487e903809bc0bf3ef36",
+                            "componentName": "shortSectionEntry",
+                            "description": "Location: Kraków, Poland"
+                        },
+                        {
+                            "key": "4e29da8e8e3748709846c8e32da36099",
+                            "componentName": "shortSectionEntry",
+                            "description": "Mobile: +48 665 332 808"
+                        },
+                        {
+                            "key": "27d93b8fdf26447ea989d22522c4e943",
+                            "componentName": "shortSectionEntry",    
+                            "description": "dominicwieczo@gmail.com"
+                        },
+                        {
+                            "key": "fbca15df445e49b8b8a229206db1f1e7",
+                            "componentName": "shortSectionEntry",    
+                            "description": "github.com/mrevening",
+                            "descriptionUrl": "https://github.com/mrevening"
+                        }
+                    ]
+                },
+                {
+                    "key": "9e3ebaae0d8145e3961f502d435ddfe4",
+                    "componentName": "section",
+                    "sectionName": "Certifications",
+                    "elements": [
+                        {
+                            "key": "62ab628583f744009f5830478b2793bb",
+                            "componentName": "shortSectionEntry",
+                            "description": "Azure Fundamentals",
+                            "date": "VI 2020",
+                            "descriptionUrl": "https://www.youracclaim.com/badges/b33ee1f2-212b-47c6-9845-133fbd16b216/linked_in_profile"
+                        }
+                    ]
+                },
+                {
+                    "key": "68977cd26d704e3eaeac1033198d2b3b",
+                    "componentName": "section",
+                    "sectionName": "Stack",
+                    "elements": [
+                        {
+                            "key": "bd0730cb3fd848899fa9e90d01b703c1",
+                            "componentName": "shortSectionEntry",
+                            "title": "Main Professional tools:"
+                        },
+                        {
+                            "key": "19b44cdee93846bf876a75fcd9586df0",
+                            "componentName": "shortSectionEntry",
+                            "description": "ASP.NET Framework"
+                        },
+                        {
+                            "key": "e015b4e5ca9a4f8684b01f1122d2bd52",
+                            "componentName": "shortSectionEntry",
+                            "description": "Microsoft SQL Server"
+                        },
+                        {
+                            "key": "492d14f6d5a54214ba00631596018cef",
+                            "componentName": "shortSectionEntry",
+                            "title": "Helping tools:"
+                        },
+                        {
+                            "key": "b17075244d5f464eaae0b00c9cb18afc",
+                            "componentName": "shortSectionEntry",
+                            "description": "Entity Framework"
+                        },
+                        {
+                            "key": "c0d6ba2a38da417697e4afc85d9a6fd4",
+                            "componentName": "shortSectionEntry",
+                            "description": "LINQ"
+                        },
+                        {
+                            "key": "8c55133734384ccebe75780e3ede04fe",
+                            "componentName": "shortSectionEntry",
+                            "description": "Git"
+                        },
+                        
+                        {
+                            "key": "5814fba798034beaa856d46eb04a8e49",
+                            "componentName": "shortSectionEntry",
+                            "title": "Home skilled:"
+                        },
+                        {
+                            "key": "8c55133734384ccebe75780e3ede04fe",
+                            "componentName": "shortSectionEntry",
+                            "description": "React"
+                        },
+                        {
+                            "key": "d657894e2740462994ee9114406bfb2b",
+                            "componentName": "shortSectionEntry",
+                            "title": "Used in the past"
+                        },
+                        {
+                            "key": "8e95d49f13e249e1a8e4246d51c6fb04",
+                            "componentName": "shortSectionEntry",
+                            "description": "LabVIEW"
+                        },
+                        {
+                            "key": "c6b03fb27a7145acb1e630a0bc5f6108",
+                            "componentName": "shortSectionEntry",
+                            "description": "WordPress"
+                        }
+                    ]
+                },
+                {
+                    "key": "f07a1cb604d543d7b51ad019cc31e8db",
+                    "componentName": "section",
+                    "sectionName": "Languages",
+                    "elements": [
+                        {
+                            "key": "13e95276ac104ad6af422b7ff71e2885",
+                            "componentName": "language",
+                            "language": "English",
+                            "stars": 5
+                        },
+                        {
+                            "key": "c51efbfd9e1a497cadbbce38ea8086a6",
+                            "componentName": "language",
+                            "language": "French",
+                            "stars": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "6b895c84642e4bab90fcbce703cf1243",
+            "componentName": "mainpane",
+            "elements": [
+                {
+                    "key": "06d4be8f36724ba3b9583bdae9871d19",
+                    "componentName": "header",
+                    "firstName" : "Dominik",
+                    "lastName": "Wieczorek",
+                    "jobTitle": ".NET Developer"
+                },
+                {
+                    "key": "115cb59ddeac4a30a9ba734e0054893f",
+                    "componentName": "section",
+                    "sectionName": "Work Experience",
+                    "elements": [
+                        {
+                            "key": "299b32993bf147bd8f7f3dca1c9b70e2",
+                            "componentName": "sectionEntry",
+                            "title": "KPMG",
+                            "description": "Extending App which generate tax returns in Swiss cantons.",
+                            "date": "VI 2020 - Now",
+                            "url": "https://home.kpmg/pl/pl/home.html",
+                            "position": ".NET Developer",
+                            "experience": "(1 year)",
+                            "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
+                            "tasks":
+                            [
+                                {
+                                    "key": "ba40a2cce010494f863e78b6d78dc95d",
+                                    "componentName": "task",
+                                    "text": "Role: .NET Developer"
+                                },
+                                {
+                                    "key": "2187ac86170e4db28de71c6dacd19ff7",
+                                    "componentName": "task",
+                                    "text": "Stack: .NET Framework, Microsoft SQL Server, JavaScript"
+                                },
+                                {
+                                    "key": "9f420ea7506146598f2c4f5c0720cb7a",
+                                    "componentName": "task",
+                                    "text": "Covering taxes business logic in graph structure"
+                                },
+                                {
+                                    "key": "e423590c35ea44f4b2c880c03802f338",
+                                    "componentName": "task",
+                                    "text": "Creating new sections based on business analytic's documentation"
+                                },
+                                {
+                                    "key": "171c44a67d394955aa01461a242f38ec",
+                                    "componentName": "task",
+                                    "text": "Writing tests covering business logic"
+                                },
+                                {
+                                    "key": "517d8ffe706c46e7809bb96a92a6bc2f",
+                                    "componentName": "task",
+                                    "text": "Refactoring old code using good programming practices"
+                                }
+                            ]
+                        },
+                        {
+                            "key": "b1e7cae58d4a4c20997e7e669d6d1b19",
+                            "componentName": "sectionEntry",
+                            "title": "Primetals Technologies",
+                            "description": "Developing Web Application which manages steel production.",
+                            "date": "X 2019 - V 20220",
+                            "url": "https://www.primetals.com/",
+                            "position": ".NET Developer",
+                            "experience": "(6 months)",
+                            "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
+                            "tasks":
+                            [
+                                {
+                                    "key": "c8763ebd4f6c47d9b9541c8b72cc8aec",
+                                    "componentName": "task",
+                                    "text": "Role: .NET Developer"
+                                },
+                                {
+                                    "key": "59f11505367a41d1b81a7dfc11f61f00",
+                                    "componentName": "task",
+                                    "text": "Stack: .NET Framework, Microsoft SQL Server, JavaScript"
+                                },
+                                {
+                                    "key": "b48e0ff61eb7495f969d21cff078f163",
+                                    "componentName": "task",
+                                    "text": "Creating new functionalities in ironworks HMI tool"
+                                }                              
+                            ]
+                        },
+                        {
+                            "key": "a1909f19a56d41078b1cf4a001335e90",
+                            "componentName": "sectionEntry",
+                            "title": "Idealogic",
+                            "description": "Delivering solutions for Addvena - online pet food shop - and Oroox - Swiss metal industry company.",
+                            "date": "X 2018 - IX 2019",
+                            "url": "https://oroox.com/en",
+                            "position": ".NET Developer",
+                            "experience": "(1 year)",
+                            "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
+                            "tasks":
+                            [
+                                {
+                                    "key": "d28f4f6d2a334f9a8782e20b7a8bc684",
+                                    "componentName": "task",
+                                    "text": "Role: .NET Developer"
+                                },
+                                {
+                                    "key": "18f28cccff3d4b36807f80b25b8a7a60",
+                                    "componentName": "task",
+                                    "text": "Stack: .NET Framework, Microsoft SQL Server, JavaScript"
+                                },
+                                {
+                                    "key": "d4e696da645d47b48fe27630fb9b48f6",
+                                    "componentName": "task",
+                                    "title": "Estech Webcad",
+                                    "titleUrl": "http://estech-wizard.client.webcad.com/",
+                                    "text": " - Creating E-commerce solution and Authorization module based on OAuth2.0 and Microservices"
+                                },
+                                {
+                                    "key": "1b74bfcf08b7479fb6b127f124da6813",
+                                    "componentName": "task",
+                                    "title": "Vetiapp",
+                                    "titleUrl": "http://www.addvena.com/",
+                                    "text": " - adding payment system using ING Bank Śląski API widget"
+                                },
+                                {
+                                    "key": "2e42969955a74e6bb810d74691e37aee",
+                                    "componentName": "task",
+                                    "text": "Merging internal invoices system to Comarch Optima accounting system"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "a797cf3a7f7041e7ae643743838f4b65",
+                    "componentName": "section",
+                    "sectionName": "Education",
+                    "elements": [
+                        {
+                            "key": "ca18ce123c11449d83c437e0df0acbc8",
+                            "componentName": "sectionEntry",
+                            "title": "AGH",
+                            "description": "Master Degree in Biomedical Engineering",
+                            "date": "2010 - 2017",
+                            "url": "https://kandydaci.agh.edu.pl/studia/inzynieria-biomedyczna/",
+                            "tasks":
+                            [
+                                {
+                                    "key": "96fdd5bb8bf042018a0e8eb95949a726",
+                                    "componentName": "task",
+                                    "text": "Specialization in Computer Science and Medical Electronics"
+                                },
+                                {
+                                    "key": "10e06c50e64249f486deba7a63c61a3b",
+                                    "componentName": "task",
+                                    "title": "Thesis project - RejSM",
+                                    "titleUrl": "https://rejsm.agh.edu.pl/",
+                                    "text": "- migrate biggest polish multiple sclerosis database (PHP, MySQL) to WordPress"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "37143dfc752c409984ac1020ab4199b2",
+                    "componentName": "footer",
+                    "text": "I hereby consent to processing by the advertiser of my personal data, included in my application documents, for the purposes to implement the recruitment process according to the act of 29 August 1997 on personal data protection (consolidated text: Journal of Laws of 2016, pos. 922). I also consent to processing of my personal data by the advertiser for the purposes of any future recruitment processes)"
+                }
+            ]
+        }
+    ]
+}

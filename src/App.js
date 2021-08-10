@@ -9,7 +9,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch(`content.json`)
+    fetch(this.props.content)
       .then(res => res.json())
       .then(json => this.setState({ data: json }));
   }
