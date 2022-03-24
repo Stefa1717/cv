@@ -134,6 +134,12 @@
                             "componentName": "language",
                             "language": "French",
                             "stars": 4
+                        },
+                        {
+                            "key": "c51efbfd9e1a497cadbbce38ea8086a6",
+                            "componentName": "language",
+                            "language": "Japanese",
+                            "stars": 1
                         }
                     ]
                 }
@@ -163,8 +169,8 @@
                             "date": "VI 2020 - Now",
                             "url": "https://home.kpmg/pl/pl/home.html",
                             "position": ".NET Developer",
-                            "experience": "(1 year)",
-                            "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
+                            "experience": "(2 years)",
+                            "stack": ".NET Framework, Microsoft SQL Server, TypeScript",
                             "tasks":
                             [
                                 {
@@ -175,7 +181,7 @@
                                 {
                                     "key": "2187ac86170e4db28de71c6dacd19ff7",
                                     "componentName": "task",
-                                    "text": "Stack: .NET Framework, Microsoft SQL Server, JavaScript"
+                                    "text": "Stack: .NET Framework, Microsoft SQL Server, TypeScript"
                                 },
                                 {
                                     "key": "9f420ea7506146598f2c4f5c0720cb7a",
