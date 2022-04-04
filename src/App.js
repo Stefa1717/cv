@@ -7,7 +7,7 @@ function App ({contentPath}){
 
   useEffect(() => { 
     fetch(contentPath).then(res => res.json()).then(setContent).catch(console.error)
-  }, []);
+  }, [contentPath]);
 
   return (
     <div className="app">
