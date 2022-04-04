@@ -99,7 +99,7 @@
                         {
                             "key": "8c55133734384ccebe75780e3ede04fe",
                             "componentName": "shortSectionEntry",
-                            "description": "React"
+                            "description": "React/Redux"
                         },
                         {
                             "key": "d657894e2740462994ee9114406bfb2b",
@@ -210,7 +210,7 @@
                             "componentName": "sectionEntry",
                             "title": "Primetals Technologies",
                             "description": "Developing Web Application which manages steel production.",
-                            "date": "X 2019 - V 20220",
+                            "date": "X 2019 - V 2020",
                             "url": "https://www.primetals.com/",
                             "position": ".NET Developer",
                             "experience": "(6 months)",
