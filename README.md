@@ -8,3 +8,6 @@ https://www.storyblok.com/tp/react-dynamic-component-from-json to load component
 
 CI-CD cycle: project is deployed in Azure when pushing to github repo.
 
+1. Install Node https://nodejs.org/en/download/prebuilt-installer
+2. Install react npm install -g react react-dom
+3. npm start
