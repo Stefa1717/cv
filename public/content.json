@@ -129,7 +129,7 @@
                         {
                             "key": "299b32993bf147bd8f7f3dca1c9b70e2",
                             "componentName": "sectionEntry",
-                            "title": "Part-time job: Café Ignacy Polański, Zawoja",
+                            "title": "Part-time job: \"Café Ignacy Polański\", Zawoja",
                             "description": "Customer service, operating the cash register",
                             "date": "XI 2022 - III 2023",
                             "position": "Kelner"
@@ -137,17 +137,82 @@
                         {
                             "key": "b1e7cae58d4a4c20997e7e669d6d1b19",
                             "componentName": "sectionEntry",
-                            "title": "Part-time job: Steskal Rynek 9, Maków Podhalański",
+                            "title": "Part-time job: \"Steskal Rynek 9\", Maków Podhalański",
                             "description": "Customer service, operating the cash register",
                             "date": "IV 2023 - VIII 2023"
                         },
                         {
                             "key": "a1909f19a56d41078b1cf4a001335e90",
                             "componentName": "sectionEntry",
-                            "title": "Work in inventory at MAKRO company",
+                            "title": "Work in inventory at MAKRO",
                             "description": "Counting products on shelves along with scanning",
                             "date": "IX 2023",
                             "experience": "(1 year)"
+                        }
+                    ]
+                },
+                {
+                    "key": "115cb59ddeac4a30a9ba734e0054893f",
+                    "componentName": "section",
+                    "sectionName": "Skills",
+                    "elements": [
+                        {
+                            "key": "299b32993bf147bd8f7f3dca1c9b70e2",
+                            "componentName": "sectionEntry",
+                            "tasks":
+                            [
+                                {
+                                    "key": "ba40a2cce010494f863e78b6d78dc95d",
+                                    "componentName": "task",
+                                    "text": "Energy and positive attitude towards people"
+                                },
+                                {
+                                    "key": "2187ac86170e4db28de71c6dacd19ff7",
+                                    "componentName": "task",
+                                    "text": "Comunication"
+                                },
+                                {
+                                    "key": "9f420ea7506146598f2c4f5c0720cb7a",
+                                    "componentName": "task",
+                                    "text": "Creativity"
+                                },
+                                {
+                                    "key": "e423590c35ea44f4b2c880c03802f338",
+                                    "componentName": "task",
+                                    "text": "Hard working and comittment"
+                                },
+                                {
+                                    "key": "171c44a67d394955aa01461a242f38ec",
+                                    "componentName": "task",
+                                    "text": "Punctuality and flexibility"
+                                },
+                                {
+                                    "key": "517d8ffe706c46e7809bb96a92a6bc2f",
+                                    "componentName": "task",
+                                    "text": "Independency and decision making"
+                                },
+
+                                {
+                                    "key": "9f420ea7506146598f2c4f5c0720cb7a",
+                                    "componentName": "task",
+                                    "text": "Team working"
+                                },
+                                {
+                                    "key": "e423590c35ea44f4b2c880c03802f338",
+                                    "componentName": "task",
+                                    "text": "Problem solving"
+                                },
+                                {
+                                    "key": "171c44a67d394955aa01461a242f38ec",
+                                    "componentName": "task",
+                                    "text": "Fast learning"
+                                },
+                                {
+                                    "key": "517d8ffe706c46e7809bb96a92a6bc2f",
+                                    "componentName": "task",
+                                    "text": "MS Office"
+                                }
+                            ]
                         }
                     ]
                 }
