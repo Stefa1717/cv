@@ -81,6 +81,23 @@
                             "stars": 5
                         }
                     ]
+                },
+                {
+                    "key": "9e3ebaae0d8145e3961f502d435ddfe4",
+                    "componentName": "section",
+                    "sectionName": "Stack",
+                    "elements": [
+                        {
+                            "key": "517d8ffe706c46e7809bb96a92a6bc2f",
+                            "componentName": "shortSectionEntry",
+                            "description": "MS Office"
+                        },
+                        {
+                            "key": "62ab628583f744009f5830478b2793b",
+                            "componentName": "shortSectionEntry",
+                            "description": "Autocad"
+                        }
+                    ]
                 }
             ]
         },
@@ -105,14 +122,14 @@
                             "componentName": "sectionEntry",
                             "title": "Cracow University of Techonology",
                             "description": "First year Power engineering on Faculty of Environmental Engineering and Energy",
-                            "date": "2023-now"
+                            "date": "2023 - now"
                         },
                         {
                             "key": "ca18ce123c11449d83c437e0df0acbc9",
                             "componentName": "sectionEntry",
                             "title": "High School No. 1 named after Maria Skłodowska-Curie in Sucha Beskidzka",
                             "description": "Mathematics-English profile",
-                            "date": "2019-2023"
+                            "date": "2019 - 2023"
                         }
                     ]
                 },
@@ -146,8 +163,7 @@
                             "componentName": "sectionEntry",
                             "title": "Work in inventory at MAKRO",
                             "description": "Counting products on shelves along with scanning",
-                            "date": "IX 2023",
-                            "experience": "(1 year)"
+                            "date": "IX 2023"
                         }
                     ]
                 },
@@ -206,11 +222,6 @@
                                     "key": "171c44a67d394955aa01461a242f38ec",
                                     "componentName": "task",
                                     "text": "Fast learning"
-                                },
-                                {
-                                    "key": "517d8ffe706c46e7809bb96a92a6bc2f",
-                                    "componentName": "task",
-                                    "text": "MS Office"
                                 }
                             ]
                         }
