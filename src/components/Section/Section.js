@@ -1,8 +1,8 @@
 import Components from '../../components'
 
-function Section({sectionName, elements}){
+function Section({sectionName, elements, className}){
     return (
-        <div className="section">
+        <div className="section" class={className}>
             <div className="sectionName">{sectionName}</div>
             {elements?.map(block => Components(block))}
         </div>

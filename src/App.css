@@ -23,8 +23,7 @@
 }
 
 .photo img {
-  width: 120px;
-  height: 150px;
+  width: 150px;
 }
 
 .section {
@@ -78,6 +77,10 @@ a {
   a {
     text-decoration: none;
   }
+}
+
+.skills{
+  padding-top: 20px;
 }
 
 /*# sourceMappingURL=App.css.map */

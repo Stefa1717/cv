@@ -171,6 +171,7 @@
                     "key": "115cb59ddeac4a30a9ba734e0054893f",
                     "componentName": "section",
                     "sectionName": "Skills",
+                    "className": "skills",
                     "elements": [
                         {
                             "key": "299b32993bf147bd8f7f3dca1c9b70e2",
